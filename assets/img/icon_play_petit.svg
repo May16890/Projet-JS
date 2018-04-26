@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Play petit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Play-petit" stroke="#FFFFFF">
+            <g transform="translate(7.000000, 6.000000)">
+                <polyline id="Path-2" stroke-width="2" points="1.72727273 0.25 10.4545455 7.1392336 1.72727273 12.75"></polyline>
+                <path d="M1.45454545,4.51136364 L1.45454545,8.48863636" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>
