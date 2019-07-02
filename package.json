@@ -10,8 +10,8 @@
   "author": "Kevin",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.5",
-    "electron-packager": "^13.0.1"
+    "electron": "^5.0.6",
+    "electron-packager": "^14.0.0"
   },
   "dependencies": {
     "extend": "^3.0.2"
